@@ -1,4 +1,4 @@
-# applovin_ads_demo
+# applovin_ads_demo Flutter
 
 A new Flutter project.
 
