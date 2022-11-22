@@ -30,10 +30,10 @@ A few resources to get you started if this is your first Flutter project:
 
 
 * dependencies {
-  		  implementation 'com.applovin:applovin-sdk:11.3.3'
+  		implementation 'com.applovin:applovin-sdk:11.3.3'
  	        implementation 'com.google.android.gms:play-services-location:19.0.1'
 
-		 implementation 'com.google.android.gms:play-services-ads-identifier:18.0.1’    new
+		implementation 'com.google.android.gms:play-services-ads-identifier:18.0.1’    new
 	}
 
 
@@ -45,7 +45,7 @@ A few resources to get you started if this is your first Flutter project:
    			 repositories {
       				google()
         			mavenCentral()
-                - [ ]     maven { url 'https://artifacts.applovin.com/android' }
+                - [ ]     	maven { url 'https://artifacts.applovin.com/android' }
    		 }
 
     			dependencies {
@@ -53,6 +53,8 @@ A few resources to get you started if this is your first Flutter project:
        			 classpath "com.applovin.quality:AppLovinQualityServiceGradlePlugin:+"
    		 }
 }	
+
+youtube video link : https://youtu.be/MDp6YUavn58
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
