@@ -11,7 +11,7 @@ A few resources to get you started if this is your first Flutter project:
 - [ ]  Stap 1 :    flutter_applovin_max: ^2.1.1  not working
 - [x] Stap 2:    applovin_max: ^2.3.0   working 
 
-
+		
 
 - [x] Stap 2  =>  AndroidManifest.xml : 
 
