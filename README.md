@@ -15,8 +15,8 @@ A few resources to get you started if this is your first Flutter project:
 
 - [x] Stap 2  =>  AndroidManifest.xml : 
 
-	{"<meta-data android:name="applovin.sdk.key"
-            android:value=“YOUR_SDK_KEY”/>"    }
+	{meta-data android:name="applovin.sdk.key"
+            android:value=“YOUR_SDK_KEY"  }
 
 
 - [x] Stap 3 => build.gradle/app level
