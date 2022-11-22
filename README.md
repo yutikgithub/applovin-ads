@@ -30,8 +30,10 @@ A few resources to get you started if this is your first Flutter project:
 
 
 * dependencies {
-  		implementation 'com.applovin:applovin-sdk:11.3.3',
- 	        implementation 'com.google.android.gms:play-services-location:19.0.1',
+
+  		implementation 'com.applovin:applovin-sdk:11.3.3' old
+		
+ 	        implementation 'com.google.android.gms:play-services-location:19.0.1', old
 
 		implementation 'com.google.android.gms:play-services-ads-identifier:18.0.1’    new
 	}
